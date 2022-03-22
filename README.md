@@ -11,7 +11,7 @@ This is a combination of 2 system. This was my final year project.
 -Model is loaded on face detector using haarcascade.
 -Mask or no mask detection inorder to alert security officier.
 
-#Just for editing template. Editing on progress.
+# Just for editing template. Editing on progress.
 
 
 <h1 align="center">Face Mask Detection</h1>
